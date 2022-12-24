@@ -8,6 +8,7 @@
 Установите требуемые библиотеки которые указаны в файле requirements.txt.
 
 Запуск тестов:
+
 py -m pytest -v --driver Chrome --driver-driver-path chromedriver.exe
 или
 python -m pytest -v --driver Chrome --driver-path chromedriver.exe
